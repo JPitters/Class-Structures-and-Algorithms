@@ -1,0 +1,20 @@
+BTP600 - Project
+Current Research: The Noticable Similar Patterns found in both Atom's and Brackets' Editor.
+
+
+Findings for Atom:
+ - Line 310: Atom's editor uses an update function which has many cases of use, so perhaps
+	it is an example of a Facade pattern.
+ - Line 526: This "Serialize" function seems as though it utilizes the Module/
+	Revealing Module pattern as it returns a DOM object that contains functionality
+	as well as variables.
+ - look into line 297
+
+
+
+Findings for Brackets:
+ - Line 613 in src/command/Menus.js: This may be an example of a command pattern
+ - 
+
+
+ 
